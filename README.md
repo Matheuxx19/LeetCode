@@ -1,4 +1,4 @@
-SoluÃ§Ãµes automaticamente sÃ£o commitadas para aqui utilizando LeetHub
+Solucoes automaticamente sao commitadas para aqui utilizando LeetHub
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
