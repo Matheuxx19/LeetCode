@@ -14,4 +14,8 @@ Solucoes automaticamente sao commitadas para aqui utilizando LeetHub
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Matheuxx19/LeetCode/tree/master/0009-palindrome-number) |
+## String
+|  |
+| ------- |
+| [3451-string-compression-iii](https://github.com/Matheuxx19/LeetCode/tree/master/3451-string-compression-iii) |
 <!---LeetCode Topics End-->
